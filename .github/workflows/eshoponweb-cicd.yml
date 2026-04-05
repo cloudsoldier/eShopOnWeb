@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-kash
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: ff0dbc4f-abd8-4dd9-95bf-c486dfee767e
+  SUBSCRIPTION-ID: b336c065-f175-43a2-a4f0-6124626bba96
   WEBAPP-NAME: eshoponweb-webapp-kash
 
 jobs:
